@@ -278,3 +278,8 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+.col-3 {
+  width: 33.334%;
+  float: left;
+}
